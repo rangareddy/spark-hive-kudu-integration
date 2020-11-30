@@ -192,4 +192,4 @@ kuduContext.tableExists(tableName)
 1. https://kudu.apache.org/docs/hive_metastore.html
 2. https://kudu.apache.org/docs/developing.html
 3. https://cwiki.apache.org/confluence/display/Hive/Kudu+Integration
-
+4. https://github.com/apache/kudu/blob/master/examples/scala/spark-example/src/main/scala/org/apache/kudu/spark/examples/SparkExample.scala
